@@ -1,0 +1,51 @@
+2024-11-27 02:26:51,292 - INFO - DNS server started on port 53...
+2024-11-27 02:27:35,930 - INFO - DNS server stopped.
+2024-11-27 02:27:37,556 - INFO - DNS server started on port 53...
+2024-11-27 02:27:56,421 - INFO - DNS server stopped.
+2024-11-27 02:27:58,371 - INFO - DNS server started on port 53...
+2024-11-27 02:29:05,777 - INFO - DNS server stopped.
+2024-11-27 02:29:29,982 - INFO - DNS server started on port 53...
+2024-11-27 02:30:28,276 - INFO - DNS server stopped.
+2024-11-27 02:30:55,934 - INFO - DNS server started on port 53...
+2024-11-27 02:31:29,548 - INFO - DNS server stopped.
+2024-11-27 02:32:18,396 - INFO - DNS server started on port 53...
+2024-11-27 02:33:34,719 - INFO - DNS server stopped.
+2024-11-27 02:33:48,991 - INFO - DNS server started on port 53...
+2024-11-27 02:34:35,410 - INFO - DNS server stopped.
+2024-11-27 02:34:38,677 - INFO - DNS server started on port 53...
+2024-11-27 02:35:39,000 - INFO - DNS server stopped.
+2024-11-27 02:38:35,133 - INFO - DNS server started on port 53...
+2024-11-27 02:39:28,396 - INFO - Received query from ('127.0.0.1', 51703)
+2024-11-27 02:39:28,397 - ERROR - Error: index out of range
+2024-11-27 02:40:52,875 - INFO - DNS server started on port 53...
+2024-11-27 02:41:30,432 - INFO - Received query from ('127.0.0.1', 58681)
+2024-11-27 02:41:30,432 - ERROR - Error: index out of range
+2024-11-27 02:42:22,646 - INFO - DNS server stopped.
+2024-11-27 03:08:02,085 - INFO - DNS server started on port 53...
+2024-11-27 03:08:25,869 - INFO - Received query from ('127.0.0.1', 52662)
+2024-11-27 03:08:25,869 - INFO - Transaction ID: 44806
+2024-11-27 03:08:25,869 - INFO - Domain Name: example.com, Query Type: 1
+2024-11-27 03:08:25,870 - INFO - Resolved example.com to 93.184.216.34
+2024-11-27 03:08:25,870 - INFO - Response sent.
+2024-11-27 03:09:04,515 - INFO - DNS server stopped.
+2024-11-27 03:09:06,679 - INFO - DNS server started on port 53...
+2024-11-27 03:09:15,920 - INFO - Received query from ('127.0.0.1', 58936)
+2024-11-27 03:09:15,920 - INFO - Transaction ID: 64856
+2024-11-27 03:09:15,920 - INFO - Domain Name: example.com, Query Type: 1
+2024-11-27 03:09:15,920 - INFO - Resolved example.com to 93.184.216.34
+2024-11-27 03:09:15,920 - INFO - Response sent.
+2024-11-27 03:09:38,096 - INFO - Received query from ('127.0.0.1', 58749)
+2024-11-27 03:09:38,096 - INFO - Transaction ID: 60195
+2024-11-27 03:09:38,096 - INFO - Domain Name: microsoft.py, Query Type: 1
+2024-11-27 03:09:38,096 - WARNING - Domain microsoft.py not found!
+2024-11-27 03:09:38,096 - INFO - Response sent.
+2024-11-27 03:09:50,160 - INFO - Received query from ('127.0.0.1', 52591)
+2024-11-27 03:09:50,160 - INFO - Transaction ID: 31534
+2024-11-27 03:09:50,161 - INFO - Domain Name: example.com, Query Type: 1
+2024-11-27 03:09:50,161 - INFO - Resolved example.com to 93.184.216.34
+2024-11-27 03:09:50,161 - INFO - Response sent.
+2024-11-27 03:10:21,046 - INFO - Received query from ('127.0.0.1', 53425)
+2024-11-27 03:10:21,046 - INFO - Transaction ID: 44701
+2024-11-27 03:10:21,046 - INFO - Domain Name: microsoft.com, Query Type: 1
+2024-11-27 03:10:21,046 - INFO - Resolved microsoft.com to 40.112.72.205
+2024-11-27 03:10:21,046 - INFO - Response sent.
